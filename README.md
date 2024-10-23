@@ -1,6 +1,6 @@
 # Arty Art Gallery
 
-![Arty Gallery]("./assets/111.png")
+![Arty Gallery](./src/assets/111.png)
 Arty is an online art gallery platform designed for art enthusiasts, collectors, and creators. This project showcases various artworks, providing a space for artists to present their masterpieces and for visitors to explore, appreciate, and purchase art.
 
 ## Installation
